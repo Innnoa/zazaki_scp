@@ -2,6 +2,9 @@
 build/
 cmake_test_discovery_*.json
 
+# === AI-generated artifacts ===
+docs/
+
 # === Local config and test files ===
 zssh.yaml
 local.txt
