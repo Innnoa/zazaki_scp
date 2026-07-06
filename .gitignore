@@ -1,0 +1,17 @@
+# === Build artifacts ===
+build/
+cmake_test_discovery_*.json
+
+# === Local config and test files ===
+zssh.yaml
+local.txt
+
+# === AI 产物排除规则（来源: templates/gitignore/ai-artifacts.gitignore）===
+AI_GUIDE.md
+CURRENT_TASK.md
+DECISIONS.md
+handoff/
+.codex/
+.claude/
+.serena/
+outputs/runtime/
