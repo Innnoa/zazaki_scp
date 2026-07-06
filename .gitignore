@@ -3,7 +3,7 @@ build/
 cmake_test_discovery_*.json
 
 # === AI-generated artifacts ===
-docs/
+docs/superpowers/
 
 # === Local config and test files ===
 zssh.yaml
